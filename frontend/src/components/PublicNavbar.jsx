@@ -9,7 +9,7 @@ const PublicNavbar = ({ toggleDarkMode }) => {
     <nav className="sticky top-0 z-50 w-full px-6 py-4 flex justify-between items-center bg-white dark:bg-black shadow">
 
       <h1 className="text-xl font-bold text-black dark:text-white">
-        Auth Project
+        SecureAuth
       </h1>
 
       {/* Hamburger */}
